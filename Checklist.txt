@@ -43,3 +43,35 @@ Imgur
 Messenger (like the uh facebook insta app)
 Meta Horizon
 Google
+Taco Bell
+Domino's
+Subway
+Jack in the Box
+Instacart
+Chipotle
+Wingstop
+Starbucks
+Wendy's
+Yelp
+Dunkin'
+Burger King
+Buffalo Wild Wings
+Crumbl
+Popeyes
+KFC
+Grubhub
+Little Caesars
+Raising Cane's
+Pizza Hut
+Panera Bread
+Dairy Queen
+7-Eleven
+Papa Johns
+Chilis
+Arby's
+Whataburger
+PBS
+
+NOTE: once youre done with all the ones above,
+      go back and look up most popular games
+      on the appstore so you can do those too
