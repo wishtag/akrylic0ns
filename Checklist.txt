@@ -1,4 +1,3 @@
-Google Gemini
 DeepSeek
 Airbnb
 Roku
