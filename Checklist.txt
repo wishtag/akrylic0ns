@@ -1,4 +1,3 @@
-Threads
 Temu
 WhatsApp
 Google Gemini
