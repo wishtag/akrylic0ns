@@ -1,4 +1,3 @@
-Temu
 WhatsApp
 Google Gemini
 DeepSeek
