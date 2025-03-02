@@ -1,4 +1,3 @@
-BandLab
 Tile
 Quizlet
 OfferUp
