@@ -1,4 +1,3 @@
-Grammarly
 BandLab
 Tile
 Quizlet
