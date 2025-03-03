@@ -1,4 +1,3 @@
-Quizlet
 OfferUp
 Depop
 Replit
