@@ -1,4 +1,3 @@
-Tubi
 Zelle
 Chime
 Imgur
@@ -40,6 +39,7 @@ Coinbase
 Crypto.com
 Robinhood
 Binance
+Pluto TV
 
 NOTE: once youre done with all the ones above,
       go back and look up most popular games
