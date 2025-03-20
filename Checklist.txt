@@ -1,14 +1,14 @@
 Yelp
-Dunkin'
-Burger King
+Dunkin' (2 versions, DD with one orange and the other pink, and the coffee cup)
+Burger King (2 versions, one with the old widely known logo, and one with the current logo)
 Buffalo Wild Wings
-Crumbl
+Crumbl (2 versions, one with the actual logo, and one with a cookie)
 Popeyes
 KFC
 Grubhub
 Little Caesars
 Raising Cane's
-Pizza Hut
+Pizza Hut (2 versions, cus apparently there are two current versions)
 Panera Bread
 Dairy Queen
 7-Eleven
@@ -19,6 +19,7 @@ Whataburger
 PBS
 Telegram
 Google Home
+
 DeviantArt
 Coinbase
 Crypto.com
