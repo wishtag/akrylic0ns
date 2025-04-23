@@ -24,6 +24,8 @@ Crypto.com
 Robinhood
 Pluto TV
 Pokemon TCG Live
+Pushover
+3D Circle
 
 NOTE: once youre done with all the ones above,
       go back and look up most popular games
